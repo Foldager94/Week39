@@ -2,8 +2,4 @@
 
 ## Indhold
 ### jpademo
-#### JPA intro
-#### JPA Project Setuo
-#### JPA OneToOne relations
-#### JPA OneToMany relations
-#### JPA ManyToMany relations
+### Rest with JAX RS part 1, 2 and 3
