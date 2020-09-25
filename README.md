@@ -1,8 +1,7 @@
 # Week39
 
-## Indhold
-### jpademo
-### Rest with JAX RS
+### Indhold
+#### jpademo og Rest with JAX RS
 
 
 Git Reposetoriet indholder opgaver fra uge 39.
